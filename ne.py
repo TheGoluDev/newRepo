@@ -1,1 +1,1 @@
-qwdiqwdiqyvw
+print("123")
